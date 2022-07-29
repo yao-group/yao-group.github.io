@@ -2,34 +2,34 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://example.com/publications/example/</loc>
+    <loc>https://yj-b.github.io/publications/example/</loc>
     <lastmod>2022-06-08T12:33:45+10:00</lastmod>
   </url><url>
-    <loc>https://example.com/group/example/</loc>
+    <loc>https://yj-b.github.io/group/example/</loc>
     <lastmod>2020-06-23T12:33:45+10:00</lastmod>
   </url><url>
-    <loc>https://example.com/products/example/</loc>
+    <loc>https://yj-b.github.io/products/example/</loc>
     <lastmod>2020-06-23T12:33:45+10:00</lastmod>
   </url><url>
-    <loc>https://example.com/</loc>
+    <loc>https://yj-b.github.io/</loc>
     <lastmod>2022-06-08T12:33:45+10:00</lastmod>
   </url><url>
-    <loc>https://example.com/publications/</loc>
+    <loc>https://yj-b.github.io/publications/</loc>
     <lastmod>2022-06-08T12:33:45+10:00</lastmod>
   </url><url>
-    <loc>https://example.com/group/</loc>
+    <loc>https://yj-b.github.io/group/</loc>
     <lastmod>2020-06-23T12:33:45+10:00</lastmod>
   </url><url>
-    <loc>https://example.com/products/</loc>
+    <loc>https://yj-b.github.io/products/</loc>
     <lastmod>2020-06-23T12:33:45+10:00</lastmod>
   </url><url>
-    <loc>https://example.com/about/</loc>
+    <loc>https://yj-b.github.io/about/</loc>
     <lastmod>2019-02-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/categories/</loc>
+    <loc>https://yj-b.github.io/categories/</loc>
   </url><url>
-    <loc>https://example.com/contact/</loc>
+    <loc>https://yj-b.github.io/contact/</loc>
   </url><url>
-    <loc>https://example.com/tags/</loc>
+    <loc>https://yj-b.github.io/tags/</loc>
   </url>
 </urlset>

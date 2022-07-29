@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Publications on Research Group</title>
-    <link>https://example.com/publications/</link>
+    <link>https://yj-b.github.io/publications/</link>
     <description>Recent content in Publications on Research Group</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 08 Jun 2022 12:33:45 +1000</lastBuildDate><atom:link href="https://example.com/publications/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 08 Jun 2022 12:33:45 +1000</lastBuildDate><atom:link href="https://yj-b.github.io/publications/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>学术研讨会xxxxxxxxx</title>
-      <link>https://example.com/publications/example/</link>
+      <link>https://yj-b.github.io/publications/example/</link>
       <pubDate>Wed, 08 Jun 2022 12:33:45 +1000</pubDate>
       
-      <guid>https://example.com/publications/example/</guid>
+      <guid>https://yj-b.github.io/publications/example/</guid>
       <description>主讲人 C.S. Lewis, Novelist
 题目 You are never too old to set another goal or to dream a new dream.
 时间 2022年6月9日，上午10：00-11：30

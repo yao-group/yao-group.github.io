@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Group on Research Group</title>
-    <link>https://example.com/group/</link>
+    <link>https://yj-b.github.io/group/</link>
     <description>Recent content in Group on Research Group</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 23 Jun 2020 12:33:45 +1000</lastBuildDate><atom:link href="https://example.com/group/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 23 Jun 2020 12:33:45 +1000</lastBuildDate><atom:link href="https://yj-b.github.io/group/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>ABC - 副教授</title>
-      <link>https://example.com/group/example/</link>
+      <link>https://yj-b.github.io/group/example/</link>
       <pubDate>Tue, 23 Jun 2020 12:33:45 +1000</pubDate>
       
-      <guid>https://example.com/group/example/</guid>
+      <guid>https://yj-b.github.io/group/example/</guid>
       <description>姓名 ABC
 职称 副教授
 邮箱 123456789@163.com
