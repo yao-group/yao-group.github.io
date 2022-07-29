@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Group on Research Group</title>
+    <link>https://example.com/group/</link>
+    <description>Recent content in Group on Research Group</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Tue, 23 Jun 2020 12:33:45 +1000</lastBuildDate><atom:link href="https://example.com/group/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>ABC - 副教授</title>
+      <link>https://example.com/group/example/</link>
+      <pubDate>Tue, 23 Jun 2020 12:33:45 +1000</pubDate>
+      
+      <guid>https://example.com/group/example/</guid>
+      <description>姓名 ABC
+职称 副教授
+邮箱 123456789@163.com
+研究领域 金融学相关研究方向
+学术论文 Colin Powell(2022).“A dream doesn’t become reality through magic; it takes sweat, determination, and hard work.”. Secretary of State Fabre(2020).“It doesn&amp;rsquo;t matter whether you are taught or not, the most important thing is that you are aware and persistent.”.JFE
+Farrah Gray.(2019) “Build your own dreams, or someone else will hire you to build theirs.”.Motivational Speaker</description>
+    </item>
+    
+  </channel>
+</rss>

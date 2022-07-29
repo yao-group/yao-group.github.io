@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Research Group</title>
+    <link>https://example.com/</link>
+    <description>Recent content on Research Group</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 08 Jun 2022 12:33:45 +1000</lastBuildDate><atom:link href="https://example.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>学术研讨会xxxxxxxxx</title>
+      <link>https://example.com/publications/example/</link>
+      <pubDate>Wed, 08 Jun 2022 12:33:45 +1000</pubDate>
+      
+      <guid>https://example.com/publications/example/</guid>
+      <description>主讲人 C.S. Lewis, Novelist
+题目 You are never too old to set another goal or to dream a new dream.
+时间 2022年6月9日，上午10：00-11：30
+举办方式 腾讯会议：https://meeting.tencent.com/dm/NIDPYdWKUSQq</description>
+    </item>
+    
+    <item>
+      <title>ABC - 副教授</title>
+      <link>https://example.com/group/example/</link>
+      <pubDate>Tue, 23 Jun 2020 12:33:45 +1000</pubDate>
+      
+      <guid>https://example.com/group/example/</guid>
+      <description>姓名 ABC
+职称 副教授
+邮箱 123456789@163.com
+研究领域 金融学相关研究方向
+学术论文 Colin Powell(2022).“A dream doesn’t become reality through magic; it takes sweat, determination, and hard work.”. Secretary of State Fabre(2020).“It doesn&amp;rsquo;t matter whether you are taught or not, the most important thing is that you are aware and persistent.”.JFE
+Farrah Gray.(2019) “Build your own dreams, or someone else will hire you to build theirs.”.Motivational Speaker</description>
+    </item>
+    
+    <item>
+      <title>学术研讨会通知</title>
+      <link>https://example.com/products/example/</link>
+      <pubDate>Tue, 23 Jun 2020 12:33:45 +1000</pubDate>
+      
+      <guid>https://example.com/products/example/</guid>
+      <description>主讲人 C.S. Lewis, Novelist
+题目 You are never too old to set another goal or to dream a new dream.
+时间 2022年6月9日，上午10：00-11：30
+举办方式 腾讯会议：https://meeting.tencent.com/dm/NIDPYdWKUSQq</description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>https://example.com/about/</link>
+      <pubDate>Thu, 28 Feb 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/about/</guid>
+      <description>Written in Go, Here is the summary of research center！
+&amp;hellip;
+这是实验室的简介。
+xxxx研究中心，成立于xxxx年x月x日，依托于xxx成立，致力于解决xxxx问题
+&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>https://example.com/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/contact/</guid>
+      <description>To contact us, please fill out the form below.</description>
+    </item>
+    
+  </channel>
+</rss>

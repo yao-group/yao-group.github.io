@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Publication on Research Group</title>
+    <link>https://example.com/products/</link>
+    <description>Recent content in Publication on Research Group</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Tue, 23 Jun 2020 12:33:45 +1000</lastBuildDate><atom:link href="https://example.com/products/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>学术研讨会通知</title>
+      <link>https://example.com/products/example/</link>
+      <pubDate>Tue, 23 Jun 2020 12:33:45 +1000</pubDate>
+      
+      <guid>https://example.com/products/example/</guid>
+      <description>主讲人 C.S. Lewis, Novelist
+题目 You are never too old to set another goal or to dream a new dream.
+时间 2022年6月9日，上午10：00-11：30
+举办方式 腾讯会议：https://meeting.tencent.com/dm/NIDPYdWKUSQq</description>
+    </item>
+    
+  </channel>
+</rss>
