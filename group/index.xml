@@ -8,7 +8,7 @@
     <language>en</language>
     <lastBuildDate>Fri, 05 Aug 2022 12:33:45 +1000</lastBuildDate><atom:link href="https://yao-group.github.io/group/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>贺 - 研究生</title>
+      <title>贺慧敏 - 研究生</title>
       <link>https://yao-group.github.io/group/%E8%B4%BA%E6%85%A7%E6%95%8F/</link>
       <pubDate>Fri, 05 Aug 2022 12:33:45 +1000</pubDate>
       
@@ -22,10 +22,10 @@
     
     <item>
       <title>ABC - 副教授</title>
-      <link>https://yao-group.github.io/group/example/</link>
-      <pubDate>Tue, 23 Jun 2020 12:33:45 +1000</pubDate>
+      <link>https://yao-group.github.io/group/%E6%95%99%E6%8E%881/</link>
+      <pubDate>Thu, 04 Aug 2022 12:33:45 +1000</pubDate>
       
-      <guid>https://yao-group.github.io/group/example/</guid>
+      <guid>https://yao-group.github.io/group/%E6%95%99%E6%8E%881/</guid>
       <description>姓名 ABC
 职称 副教授
 邮箱 123456789@163.com
@@ -35,11 +35,11 @@ Farrah Gray.(2019) “Build your own dreams, or someone else will hire you to bu
     </item>
     
     <item>
-      <title>姚凯 - 教授</title>
-      <link>https://yao-group.github.io/group/%E6%95%99%E6%8E%881/</link>
+      <title>ABC - 副教授</title>
+      <link>https://yao-group.github.io/group/example/</link>
       <pubDate>Tue, 23 Jun 2020 12:33:45 +1000</pubDate>
       
-      <guid>https://yao-group.github.io/group/%E6%95%99%E6%8E%881/</guid>
+      <guid>https://yao-group.github.io/group/example/</guid>
       <description>姓名 ABC
 职称 副教授
 邮箱 123456789@163.com
