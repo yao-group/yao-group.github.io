@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Publication on Research Group</title>
-    <link>https://yj-b.github.io/products/</link>
+    <link>https://yao-group.github.io/products/</link>
     <description>Recent content in Publication on Research Group</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 23 Jun 2020 12:33:45 +1000</lastBuildDate><atom:link href="https://yj-b.github.io/products/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 23 Jun 2020 12:33:45 +1000</lastBuildDate><atom:link href="https://yao-group.github.io/products/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>学术研讨会通知</title>
-      <link>https://yj-b.github.io/products/example/</link>
+      <link>https://yao-group.github.io/products/example/</link>
       <pubDate>Tue, 23 Jun 2020 12:33:45 +1000</pubDate>
       
-      <guid>https://yj-b.github.io/products/example/</guid>
+      <guid>https://yao-group.github.io/products/example/</guid>
       <description>主讲人 C.S. Lewis, Novelist
 题目 You are never too old to set another goal or to dream a new dream.
 时间 2022年6月9日，上午10：00-11：30
@@ -21,10 +21,10 @@
     
     <item>
       <title>通知1</title>
-      <link>https://yj-b.github.io/products/%E9%80%9A%E7%9F%A51/</link>
+      <link>https://yao-group.github.io/products/%E9%80%9A%E7%9F%A51/</link>
       <pubDate>Tue, 23 Jun 2020 12:33:45 +1000</pubDate>
       
-      <guid>https://yj-b.github.io/products/%E9%80%9A%E7%9F%A51/</guid>
+      <guid>https://yao-group.github.io/products/%E9%80%9A%E7%9F%A51/</guid>
       <description>主讲人 C.S. Lewis, Novelist
 题目 You are never too old to set another goal or to dream a new dream.
 时间 2022年6月9日，上午10：00-11：30
@@ -33,10 +33,10 @@
     
     <item>
       <title>通知2</title>
-      <link>https://yj-b.github.io/products/%E9%80%9A%E7%9F%A52/</link>
+      <link>https://yao-group.github.io/products/%E9%80%9A%E7%9F%A52/</link>
       <pubDate>Tue, 23 Jun 2020 12:33:45 +1000</pubDate>
       
-      <guid>https://yj-b.github.io/products/%E9%80%9A%E7%9F%A52/</guid>
+      <guid>https://yao-group.github.io/products/%E9%80%9A%E7%9F%A52/</guid>
       <description>主讲人 C.S. Lewis, Novelist
 题目 You are never too old to set another goal or to dream a new dream.
 时间 2022年6月9日，上午10：00-11：30
@@ -45,10 +45,10 @@
     
     <item>
       <title>通知3</title>
-      <link>https://yj-b.github.io/products/%E9%80%9A%E7%9F%A53/</link>
+      <link>https://yao-group.github.io/products/%E9%80%9A%E7%9F%A53/</link>
       <pubDate>Tue, 23 Jun 2020 12:33:45 +1000</pubDate>
       
-      <guid>https://yj-b.github.io/products/%E9%80%9A%E7%9F%A53/</guid>
+      <guid>https://yao-group.github.io/products/%E9%80%9A%E7%9F%A53/</guid>
       <description>主讲人 C.S. Lewis, Novelist
 题目 You are never too old to set another goal or to dream a new dream.
 时间 2022年6月9日，上午10：00-11：30
@@ -57,10 +57,10 @@
     
     <item>
       <title>通知4</title>
-      <link>https://yj-b.github.io/products/%E9%80%9A%E7%9F%A54/</link>
+      <link>https://yao-group.github.io/products/%E9%80%9A%E7%9F%A54/</link>
       <pubDate>Tue, 23 Jun 2020 12:33:45 +1000</pubDate>
       
-      <guid>https://yj-b.github.io/products/%E9%80%9A%E7%9F%A54/</guid>
+      <guid>https://yao-group.github.io/products/%E9%80%9A%E7%9F%A54/</guid>
       <description>主讲人 C.S. Lewis, Novelist
 题目 You are never too old to set another goal or to dream a new dream. helloworld
 时间 2022年6月9日，上午10：00-11：30
@@ -68,11 +68,11 @@
     </item>
     
     <item>
-      <title>通知4</title>
-      <link>https://yj-b.github.io/products/%E9%80%9A%E7%9F%A55/</link>
+      <title>通知5</title>
+      <link>https://yao-group.github.io/products/%E9%80%9A%E7%9F%A55/</link>
       <pubDate>Tue, 23 Jun 2020 12:33:45 +1000</pubDate>
       
-      <guid>https://yj-b.github.io/products/%E9%80%9A%E7%9F%A55/</guid>
+      <guid>https://yao-group.github.io/products/%E9%80%9A%E7%9F%A55/</guid>
       <description>主讲人 C.S. Lewis, Novelist
 题目 You are never too old to set another goal or to dream a new dream. helloworld
 时间 2022年6月9日，上午10：00-11：30
