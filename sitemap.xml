@@ -2,14 +2,20 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://yao-group.github.io/group/%E9%9B%B7%E4%B8%BD%E9%9C%8F/</loc>
+    <lastmod>2022-08-20T21:01:45+10:00</lastmod>
+  </url><url>
+    <loc>https://yao-group.github.io/group/%E7%AC%A6%E9%A6%A8%E4%BA%91/</loc>
+    <lastmod>2022-08-20T20:35:45+10:00</lastmod>
+  </url><url>
+    <loc>https://yao-group.github.io/group/%E8%B4%BA%E6%85%A7%E6%95%8F/</loc>
+    <lastmod>2022-08-20T20:33:45+10:00</lastmod>
+  </url><url>
     <loc>https://yao-group.github.io/group/example/</loc>
     <lastmod>2022-08-05T12:33:45+10:00</lastmod>
   </url><url>
     <loc>https://yao-group.github.io/group/%E6%95%99%E6%8E%881/</loc>
     <lastmod>2022-08-04T12:33:45+10:00</lastmod>
-  </url><url>
-    <loc>https://yao-group.github.io/group/%E8%B4%BA%E6%85%A7%E6%95%8F/</loc>
-    <lastmod>2022-08-03T12:33:45+10:00</lastmod>
   </url><url>
     <loc>https://yao-group.github.io/products/example/</loc>
     <lastmod>2020-06-23T12:33:45+10:00</lastmod>
@@ -30,10 +36,10 @@
     <lastmod>2020-06-23T12:33:45+10:00</lastmod>
   </url><url>
     <loc>https://yao-group.github.io/</loc>
-    <lastmod>2022-08-05T12:33:45+10:00</lastmod>
+    <lastmod>2022-08-20T21:01:45+10:00</lastmod>
   </url><url>
     <loc>https://yao-group.github.io/group/</loc>
-    <lastmod>2022-08-05T12:33:45+10:00</lastmod>
+    <lastmod>2022-08-20T21:01:45+10:00</lastmod>
   </url><url>
     <loc>https://yao-group.github.io/products/</loc>
     <lastmod>2020-06-23T12:33:45+10:00</lastmod>
